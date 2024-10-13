@@ -1,1 +1,5 @@
 .env
+venv/
+__pycache__/
+notebooks/labels.npy
+notebooks/preprocessed_data.npy
