@@ -34,7 +34,7 @@ The project utilizes the **MIRACL dataset**, which includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lip-sync-model.git
+   git clone https://github.com/ashishlal2003/lip-sync-model.git
    cd lip-sync-model
 
 2. Install the required packages:
