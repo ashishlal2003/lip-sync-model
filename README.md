@@ -37,11 +37,18 @@ The project utilizes the **MIRACL dataset**, which includes:
    git clone https://github.com/ashishlal2003/lip-sync-model.git
    cd lip-sync-model
 
-2. Install the required packages:
+2. Setup a virtual environment, if you haven't already (For Windows):
+  ```
+     python -m venv venv
+     venv\Scripts\activate
+   ```
+   
+
+3. Install the required packages:
    ```bash
    pip install -r requirements.txt
 
-3. Setup the .env file from the provided template:
+4. Setup the .env file from the provided template:
    ```bash
    cp .env.sample .env
 
