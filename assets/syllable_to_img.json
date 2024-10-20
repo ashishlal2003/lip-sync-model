@@ -1,0 +1,303 @@
+{
+    "words": {
+      "Begin": {
+        "syllables": [
+          {
+            "syllable": "Be",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "gin",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          }
+        ]
+      },
+      "Choose": {
+        "syllables": [
+          {
+            "syllable": "Choose",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          }
+        ]
+      },
+      "Connection": {
+        "syllables": [
+          {
+            "syllable": "Con",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "nec",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          },
+          {
+            "syllable": "tion",
+            "frames": ["<path_to_frame_5>", "<path_to_frame_6>"]
+          }
+        ]
+      },
+      "Navigation": {
+        "syllables": [
+          {
+            "syllable": "Na",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "vi",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          },
+          {
+            "syllable": "ga",
+            "frames": ["<path_to_frame_5>", "<path_to_frame_6>"]
+          },
+          {
+            "syllable": "tion",
+            "frames": ["<path_to_frame_7>", "<path_to_frame_8>"]
+          }
+        ]
+      },
+      "Next": {
+        "syllables": [
+          {
+            "syllable": "Next",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          }
+        ]
+      },
+      "Previous": {
+        "syllables": [
+          {
+            "syllable": "Pre",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "vi",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          },
+          {
+            "syllable": "ous",
+            "frames": ["<path_to_frame_5>", "<path_to_frame_6>"]
+          }
+        ]
+      },
+      "Start": {
+        "syllables": [
+          {
+            "syllable": "Start",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          }
+        ]
+      },
+      "Stop": {
+        "syllables": [
+          {
+            "syllable": "Stop",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          }
+        ]
+      },
+      "Hello": {
+        "syllables": [
+          {
+            "syllable": "Hel",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "lo",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          }
+        ]
+      },
+      "Web": {
+        "syllables": [
+          {
+            "syllable": "Web",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          }
+        ]
+      }
+    },
+    "phrases": {
+      "Stop navigation.": {
+        "syllables": [
+          {
+            "syllable": "Stop",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "na",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          },
+          {
+            "syllable": "vi",
+            "frames": ["<path_to_frame_5>", "<path_to_frame_6>"]
+          },
+          {
+            "syllable": "ga",
+            "frames": ["<path_to_frame_7>", "<path_to_frame_8>"]
+          },
+          {
+            "syllable": "tion",
+            "frames": ["<path_to_frame_9>", "<path_to_frame_10>"]
+          }
+        ]
+      },
+      "Excuse me.": {
+        "syllables": [
+          {
+            "syllable": "Ex",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "cuse",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          },
+          {
+            "syllable": "me",
+            "frames": ["<path_to_frame_5>", "<path_to_frame_6>"]
+          }
+        ]
+      },
+      "I am sorry.": {
+        "syllables": [
+          {
+            "syllable": "I",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "am",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          },
+          {
+            "syllable": "sor",
+            "frames": ["<path_to_frame_5>", "<path_to_frame_6>"]
+          },
+          {
+            "syllable": "ry",
+            "frames": ["<path_to_frame_7>", "<path_to_frame_8>"]
+          }
+        ]
+      },
+      "Thank you.": {
+        "syllables": [
+          {
+            "syllable": "Thank",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "you",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          }
+        ]
+      },
+      "Good bye.": {
+        "syllables": [
+          {
+            "syllable": "Good",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "bye",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          }
+        ]
+      },
+      "I love this game.": {
+        "syllables": [
+          {
+            "syllable": "I",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "love",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          },
+          {
+            "syllable": "this",
+            "frames": ["<path_to_frame_5>", "<path_to_frame_6>"]
+          },
+          {
+            "syllable": "game",
+            "frames": ["<path_to_frame_7>", "<path_to_frame_8>"]
+          }
+        ]
+      },
+      "Nice to meet you.": {
+        "syllables": [
+          {
+            "syllable": "Nice",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "to",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          },
+          {
+            "syllable": "meet",
+            "frames": ["<path_to_frame_5>", "<path_to_frame_6>"]
+          },
+          {
+            "syllable": "you",
+            "frames": ["<path_to_frame_7>", "<path_to_frame_8>"]
+          }
+        ]
+      },
+      "You are welcome.": {
+        "syllables": [
+          {
+            "syllable": "You",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "are",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          },
+          {
+            "syllable": "wel",
+            "frames": ["<path_to_frame_5>", "<path_to_frame_6>"]
+          },
+          {
+            "syllable": "come",
+            "frames": ["<path_to_frame_7>", "<path_to_frame_8>"]
+          }
+        ]
+      },
+      "How are you?": {
+        "syllables": [
+          {
+            "syllable": "How",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "are",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          },
+          {
+            "syllable": "you",
+            "frames": ["<path_to_frame_5>", "<path_to_frame_6>"]
+          }
+        ]
+      },
+      "Have a good time.": {
+        "syllables": [
+          {
+            "syllable": "Have",
+            "frames": ["<path_to_frame_1>", "<path_to_frame_2>"]
+          },
+          {
+            "syllable": "a",
+            "frames": ["<path_to_frame_3>", "<path_to_frame_4>"]
+          },
+          {
+            "syllable": "good",
+            "frames": ["<path_to_frame_5>", "<path_to_frame_6>"]
+          },
+          {
+            "syllable": "time",
+            "frames": ["<path_to_frame_7>", "<path_to_frame_8>"]
+          }
+        ]
+      }
+    }
+  }
+  
